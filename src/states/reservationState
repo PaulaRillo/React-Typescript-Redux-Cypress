@@ -1,0 +1,10 @@
+export interface IReservationState {
+  id: string;
+  price: number;
+  dateStart: string;
+  dateEnd: string;
+  numOfDays: number;
+  numAdults: number;
+  numChildren: number;
+  numPets: number;
+}
