@@ -1,5 +1,6 @@
 # React-Typescript-Redux-Cypress
 Project Documentation: Small Booking System to create a React, Typescript project with Redux CRUD and Cypress tests
+
 Developer: Paula Cristina Figueiredo Rillo
 Linkedin: https://www.linkedin.com/in/paula-rillo-49827220/
 Github: https://github.com/PaulaRillo
