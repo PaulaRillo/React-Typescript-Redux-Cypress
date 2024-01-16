@@ -38,7 +38,7 @@ npm install
 Running the Application locally with the command:
 npm run dev
 
-Visit http://localhost:5174/ in your browser
+Visit the localhost url given in your terminal
 
 | 3- Project Structure |
 
